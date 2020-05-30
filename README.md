@@ -1,4 +1,4 @@
-# online_cashbox
+# Online cashbox
 Учебный проект "Онлайн касса"
 
 ## Requirements 
