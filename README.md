@@ -1,5 +1,6 @@
 # Online cashbox
 Учебный проект "Онлайн касса"
 
-## Requirements 
 ## [Requirements](https://github.com/Polisterva/online_cashbox/blob/master/Documents/Requirements/Requirements.md)
+## [Mockups](https://github.com/Polisterva/online_cashbox/tree/master/Mockups/ReadmeMockups.md)
+
