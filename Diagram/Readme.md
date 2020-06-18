@@ -15,20 +15,13 @@
 <a name="1.2"/>
 
 1.2. [Диаграммы активности](#1.2)   
-
+**Вход в систему**
 ![Вход в систему](images/Login.png)
-
+**Регистрация организации**
 ![Регистрация организации](images/Registration.png)
-
+**Проведение операции по кассе**
 ![Проведение операции по кассе](images/Action.png)
 
-<p align="center">
-  <img src="https://github.com/Polisterva/online_cashbox/blob/master/Diagram/Registration.png">
-</p>
-
-<p align="center">
-  <img src="https://github.com/Polisterva/online_cashbox/blob/master/Diagram/Action.png">
-</p>
 
 <a name="1.3"/>
 
