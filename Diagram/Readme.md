@@ -16,6 +16,7 @@
 
 1.2. [Диаграммы активности](#1.2)   
 
+![Вход в систему]
 <p align="center">
   <img src="https://github.com/Polisterva/online_cashbox/blob/master/Diagram/Login.png">
 </p>
